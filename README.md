@@ -22,6 +22,8 @@
 
 ## 软件栈
 
+• ESP32 端：MicroPython ESP32
+
 • Android 端：Java/Kotlin，使用 Android Bluetooth API
 
 • 通信协议：自定义 JSON 格式 over BLE
